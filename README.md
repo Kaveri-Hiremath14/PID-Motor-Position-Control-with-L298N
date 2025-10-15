@@ -13,7 +13,7 @@ The system reads the motor’s position using a **quadrature encoder**, calculat
 - GA12 N20 Geared DC Motor with Encoder  
 - 6V Power Supply  
 - Jumper Wires  
-- Breadboard / Chassis (optional)
+- Breadboard 
 
 ---
 
