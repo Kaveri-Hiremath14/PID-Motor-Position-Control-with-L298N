@@ -1,5 +1,5 @@
 # PID-Motor-Position-Control-with-L298N
-Closed-loop PID motor position control using Arduino and L298N driver with encoder feedback for precise angular positioning.
+
 
 
 
