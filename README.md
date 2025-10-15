@@ -62,6 +62,7 @@ The system reads the motor’s position using a **quadrature encoder**, calculat
 ## 📊 Example Output
 
 Target: 90.0° | Current: 85.3° | Error: 4.7° | PWM: 180 | STATUS: MOVING
+
 Target: 90.0° | Current: 90.1° | Error: 0.1° | PWM: 25 | STATUS: AT POSITION
 
 
